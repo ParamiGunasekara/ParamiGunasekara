@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+fellow+🫶+coders;I'm+Parami✨;+Full+Stack+Developer+💻;from+Ceylon+💖;&color=48CAE4" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+fellow+🫶+coders;I'm+Parami Gunasekara✨;+Full+Stack+Developer+💻;from+Ceylon+💖;&color=48CAE4" />
 </h1>
 
 <!-- <p align="center">
@@ -72,14 +72,12 @@ person.introduce()
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ParamiGunasekara&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
+  <a href="https://github.com/ParamiGunasekara">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ParamiGunasekara&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ParamiGunasekara&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
+  </a>
 </p>
-<p align="center">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=ParamiGunasekara&theme=gotham&hide_border=false" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamiGunasekara&layout=compact&theme=gotham" />
-</p>
+
 
 <div align="left">
     <h2>🎀 Tech Magic Wands</h2>
