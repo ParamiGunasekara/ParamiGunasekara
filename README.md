@@ -84,9 +84,9 @@ person.introduce()
 </div>
 
 <p align="left">
-    <img src="https://img.shields.io/badge/MacOS-FF1493?style=for-the-badge&logo=apple&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FFB6C1?style=for-the-badge&logo=linux&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Windows-FF69B4?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MacOS-48CAE4?style=for-the-badge&logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-CAF0F8?style=for-the-badge&logo=linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Windows-90E0EF?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ## 🦇 Fun Fact:
@@ -110,10 +110,10 @@ I’m always open to collaborations, discussions, or chatting about tech, proble
 <img src="https://img1.picmix.com/output/stamp/thumb/1/6/7/7/2417761_2ff32.gif" />
 <div align="left">
     <a href="https://www.linkedin.com/in/hansikaparami">
-        <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-48CAE4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.hackerrank.com/paramih36">
-        <img src="https://img.shields.io/badge/HackerRank-FF1493?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+        <img src="https://img.shields.io/badge/HackerRank-90E0EF?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
     </a>
 </div>
 
