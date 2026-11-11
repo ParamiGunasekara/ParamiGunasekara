@@ -1,19 +1,22 @@
 
 <div align="center">
 
-# Hi, I'm Parami Gunasekara 👋
-
-### Industrial IT Undergraduate | DevOps & Cloud Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+Linux+%7C+Docker+%7C+CI%2FCD;Building+hands-on+DevOps+projects;Exploring+Cloud+%26+Automation;Aspiring+DevOps+Engineer" alt="Animated introduction" />
+<img src="devops-banner.svg" width="100%" alt="Parami Gunasekara - DevOps and Cloud Enthusiast" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+Linux+%7C+Docker+%7C+CI%2FCD;Building+Hands-on+DevOps+Projects;Exploring+Cloud+%26+Automation" alt="Animated introduction" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/hansikaparami/">
+  <img src="https://img.shields.io/badge/LinkedIn-6D4ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://github.com/ParamiGunasekara">
   <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://github.com/ParamiGunasekara/parami-portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio repository"/>
+  <img src="https://img.shields.io/badge/Portfolio_Source-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository"/>
 </a>
 
 </div>
@@ -22,39 +25,39 @@
 
 ## About Me
 
-I'm an **Industrial Information Technology undergraduate** at **Uva Wellassa University of Sri Lanka**, with an interest in DevOps engineering, cloud infrastructure, and automation.
+I'm **Parami Gunasekara**, an **Industrial Information Technology undergraduate** at **Uva Wellassa University of Sri Lanka**, passionate about DevOps engineering, cloud infrastructure, and automation.
 
-I enjoy learning through hands-on projects, exploring how software moves from development to deployment, and documenting what I learn along the way.
+I enjoy understanding how applications move from development to production, working with Linux environments, and building practical projects that strengthen my technical skills.
 
-- 🎓 BSc undergraduate | Expected graduation: **2027**
-- 🔧 Practicing Linux administration, shell scripting, and Git
-- 🐳 Exploring Docker, containers, and multi-service applications
-- ⚙️ Learning CI/CD pipelines and infrastructure fundamentals
-- 🎯 Career goal: **DevOps Engineer**
+- 🎓 **Education:** Industrial Information Technology | Expected Graduation: 2027
+- 💻 **Hands-on practice:** Linux administration, Bash scripting, Git, and GitHub
+- 🐳 **Exploring:** Docker, containerization, and multi-service applications
+- ⚙️ **Interested in:** CI/CD, cloud technologies, and infrastructure automation
+- 🎯 **Career goal:** DevOps Engineer
 
 ---
 
-## Tech Stack & Tools
+## Technical Skills
 
 ### DevOps & Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,githubactions,vscode&theme=dark" alt="DevOps tools"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,githubactions,vscode&theme=dark" alt="DevOps and development tools"/>
 </p>
 
 ### Programming & Web Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,php,mysql&theme=dark" alt="Programming technologies"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,php,mysql&theme=dark" alt="Programming and web technologies"/>
 </p>
 
 ### Currently Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kubernetes,nginx,aws&theme=dark" alt="Technologies I'm learning"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,nginx,aws&theme=dark" alt="Kubernetes, Nginx and AWS"/>
 </p>
 
-*These technologies represent a combination of hands-on experience, coursework, and tools I'm currently learning.*
+<sub>Technologies listed include hands-on practice, coursework, and ongoing learning.</sub>
 
 ---
 
@@ -66,19 +69,19 @@ I enjoy learning through hands-on projects, exploring how software moves from de
 
 ### Linux Server Toolkit
 
-Linux administration and automation exercises focused on practical server operations.
+Practical Linux server administration and automation project.
 
 **Highlights**
 - Server resource monitoring
-- Disk usage alerts
-- Shell scripting
-- Log inspection and troubleshooting
-- Git-based development workflow
+- Disk usage alert scripts
+- Bash scripting and automation
+- Log monitoring and troubleshooting
+- Git and GitHub workflow
 
-**Tools:** Linux, Bash, Git
+**Tech Stack:** Linux · Bash · Git
 
 <a href="https://github.com/ParamiGunasekara/linux-server-toolkit">
-  <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Linux Server Toolkit"/>
+  <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Linux Server Toolkit repository"/>
 </a>
 
 </td>
@@ -86,19 +89,19 @@ Linux administration and automation exercises focused on practical server operat
 
 ### Personal Portfolio
 
-A personal portfolio website showcasing my education, technical skills, certificates, and projects.
+A responsive personal portfolio showcasing my education, projects, skills, and certifications.
 
 **Highlights**
+- React and TypeScript development
 - Responsive user interface
 - Project showcase
 - Certificate section
-- Clean, minimal design
-- Purple and charcoal theme
+- Charcoal and purple design
 
-**Tools:** React, TypeScript, CSS
+**Tech Stack:** React · TypeScript · CSS
 
 <a href="https://github.com/ParamiGunasekara/parami-portfolio">
-  <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Personal Portfolio"/>
+  <img src="https://img.shields.io/badge/View_Repository-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Portfolio repository"/>
 </a>
 
 </td>
@@ -107,54 +110,39 @@ A personal portfolio website showcasing my education, technical skills, certific
 
 ---
 
-## My DevOps Learning Journey
+## Certifications & Achievements
 
-```text
-Linux & Bash
-    |
-    v
-Git & GitHub
-    |
-    v
-Docker & Docker Compose
-    |
-    v
-CI/CD Pipelines
-    |
-    v
-Cloud Fundamentals
-    |
-    v
-Kubernetes & Infrastructure Automation
-```
+### Kubernetes From 10000 Feet
 
-**Current focus:** Building containerized applications, strengthening Linux fundamentals, and practicing automated development workflows.
+**CoDeKu DevOps Academy**
+
+Certificate of Completion
+
+- Introduction to Kubernetes concepts
+- Issued by CoDeKu DevOps Academy
+
+### DevOps Foundations: Microservices
+
+**LinkedIn Learning**
+
+Certificate of Completion | July 18, 2026
+
+- DevOps fundamentals
+- Microservices concepts
+
+<a href="https://www.linkedin.com/in/hansikaparami/">
+  <img src="https://img.shields.io/badge/LinkedIn_Profile-6D4ACD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
 
 ---
 
 ## GitHub Activity
 
-<div align="center">
+I use GitHub to document my learning, track project improvements, and practice version control.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ParamiGunasekara&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParamiGunasekara&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParamiGunasekara&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## What I'm Working Toward
-
-- Building and documenting practical DevOps projects
-- Improving Linux troubleshooting and automation skills
-- Understanding container networking and persistent storage
-- Learning CI/CD workflows using GitHub Actions
-- Preparing for a DevOps internship
+<a href="https://github.com/ParamiGunasekara?tab=overview">
+  <img src="https://img.shields.io/badge/View_My_Contributions-24212F?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contributions"/>
+</a>
 
 ---
 
@@ -162,10 +150,14 @@ Kubernetes & Infrastructure Automation
 
 ### Let's Connect
 
-I'm always interested in learning, collaborating, and exploring new technologies.
+I'm interested in DevOps, cloud technologies, automation, and opportunities to learn through practical projects.
+
+<a href="https://www.linkedin.com/in/hansikaparami/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-6D4ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <a href="https://github.com/ParamiGunasekara">
-  <img src="https://img.shields.io/badge/Explore_My_GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+  <img src="https://img.shields.io/badge/Explore_GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -174,6 +166,6 @@ I'm always interested in learning, collaborating, and exploring new technologies
 
 <br/><br/>
 
-*Learning. Building. Improving.*
+**Learning · Building · Improving**
 
 </div>
